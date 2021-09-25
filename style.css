@@ -5,6 +5,9 @@
     text-decoration-style: none;
     font-family: monospace;
 }
+h2,h4{
+    margin: 0;
+}
 body,html{
     height: 100%;
 
